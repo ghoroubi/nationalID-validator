@@ -1,3 +1,8 @@
+/*
+NationalID validator in golang,
+Developed By Nima Ghoroubi,
+October - 2019
+*/
 package main
 
 import (
